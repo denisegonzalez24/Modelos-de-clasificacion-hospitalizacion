@@ -23,7 +23,8 @@ Se tiene la siguiente información para este estudio:
 - **Complicaciones Infecciosas**: Datos sobre las infecciones que se desarrollaron post-procedimiento.
 
 ## Modelo de ML - Regresion logística
-
+<details>
+  <summary>Ver Detalles</summary>
 Este permitió identificar las características más relevantes asociadas a la hospitalización post biopsia prostática. La precisión del modelo fue evaluada y se presentaron métricas clave como la matriz de confusión y el informe de clasificación. Este análisis proporciona una base sólida para la toma de decisiones en la atención y seguimiento de pacientes sometidos a biopsia prostática tomando en cuenta las siguientes caracteristicas:
 
 BIOPSIA
@@ -33,11 +34,23 @@ ITU
 TIPO DE CULTIVO
 AGENTE AISLADO
 PATRON DE RESISTENCIA
+</details>
 
 ## Stack tecnológico
 -python
 -pandas
 -matplotlib
+-sklearn.tree
+-sklearn.lineal-model
 
+
+¡Gracias por visitar este repositorio y por tu interés en el proyecto de análisis de Internet en Argentina!
+
+## Contribuciones
+Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio importante.
+
+## Mis datos
+linkedin 
+[www.linkedin.com/in/nissedgonzalezm](https://www.linkedin.com/in/nissegonzalezm/)
 
 
