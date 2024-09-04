@@ -7,19 +7,37 @@
 
 ## Descripción del Proyecto
 
-Hemos sido contratados por una consultora de renombre para formar parte de su equipo de ciencia de datos. Nuestro objetivo es analizar los factores clave que contribuyen a la hospitalización de pacientes después de una biopsia prostática. El estudio se centra en identificar las características más importantes de los pacientes que, tras someterse a una biopsia, presentan complicaciones infecciosas (fiebre, infección urinaria o sepsis) y requieren manejo médico ambulatorio o hospitalización dentro de los 30 días posteriores al procedimiento.
+El objetivo fué analizar los factores clave que contribuyen a la hospitalización de pacientes después de una biopsia prostática. El estudio se centra en identificar las características más importantes de los pacientes que, tras someterse a una biopsia, presentan complicaciones infecciosas (fiebre, infección urinaria o sepsis) y requieren manejo médico ambulatorio o hospitalización dentro de los 30 días posteriores al procedimiento.
 
-## Objetivo del Cliente
+## Objetivo 
 
-Nuestro cliente desea entender qué características de los pacientes son más relevantes para predecir la hospitalización después de una biopsia prostática. Esto incluye la comparación entre pacientes que presentaron complicaciones y aquellos que no las presentaron en el mismo período.
+Se desea entender qué características de los pacientes son más relevantes para predecir la hospitalización después de una biopsia prostática. Esto incluye la comparación entre pacientes que presentaron complicaciones y aquellos que no las presentaron en el mismo período.
 
 ## Datos Recopilados
 
-El equipo de datos ha recopilado la siguiente información para este estudio:
+Se tiene la siguiente información para este estudio:
 
 - **Antecedentes del Paciente**: Información médica previa y factores de riesgo.
 - **Morbilidad Asociada**: Condiciones de salud preexistentes.
 - **Antecedentes de la Biopsia**: Detalles relacionados con la realización de la biopsia.
 - **Complicaciones Infecciosas**: Datos sobre las infecciones que se desarrollaron post-procedimiento.
 
-A continuación, se proporciona un diccionario de datos con una descripción detallada de las variables utilizadas en el análisis.
+## Modelo de ML - Regresion logística
+
+Este permitió identificar las características más relevantes asociadas a la hospitalización post biopsia prostática. La precisión del modelo fue evaluada y se presentaron métricas clave como la matriz de confusión y el informe de clasificación. Este análisis proporciona una base sólida para la toma de decisiones en la atención y seguimiento de pacientes sometidos a biopsia prostática tomando en cuenta las siguientes caracteristicas:
+
+BIOPSIA
+NUMERO DE DIAS POST BIOPSIA EN QUE SE PRESENTA LA COMPLICACIÓN INFECCIOSA
+FIEBRE
+ITU
+TIPO DE CULTIVO
+AGENTE AISLADO
+PATRON DE RESISTENCIA
+
+## Stack tecnológico
+-python
+-pandas
+-matplotlib
+
+
+
