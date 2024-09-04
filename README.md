@@ -44,13 +44,13 @@ PATRON DE RESISTENCIA
 -sklearn.lineal-model
 
 
-¡Gracias por visitar este repositorio y por tu interés en el proyecto de análisis de Internet en Argentina!
-
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio importante.
 
 ## Mis datos
 linkedin 
 [www.linkedin.com/in/nissedgonzalezm](https://www.linkedin.com/in/nissegonzalezm/)
+
+¡Gracias por visitar este repositorio y por tu interés en el proyecto!
 
 
