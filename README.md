@@ -1,6 +1,6 @@
-# <h2>Estudio de Atención en Salud: Análisis de Hospitalización Post-Biopsia Prostática</h2>
+# <h2>Modelos ML para clasificacion de Hospitalización Post-Biopsia Prostática</h2>
 
-<img align='center' src="https://www.shutterstock.com/shutterstock/photos/1641086950/display_1500/stock-vector-hospitalized-man-lying-in-bed-doctor-checking-him-flat-vector-illustration-1641086950.jpg" width="230">
+<img align='rigth' src="https://www.shutterstock.com/shutterstock/photos/1641086950/display_1500/stock-vector-hospitalized-man-lying-in-bed-doctor-checking-him-flat-vector-illustration-1641086950.jpg" width="230">
 
 
 
